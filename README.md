@@ -1,1 +1,1 @@
-# Dijkstra
+# Dijkstra algorithm in ruby implementation
